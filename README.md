@@ -13,7 +13,7 @@
 Problem Statement
 ---
 
-Complete the method in the
+Complete the method in the source code file.
 
 ---
 
